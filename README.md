@@ -3,7 +3,7 @@
 Basic Info
   Name: Daniel Zhang
   Home: Haddonfield, New Jersey
-  School: Rutgers New Brunswick
+  School: Rutgers New Brunswick, graduating 2024
   Majors: Computer science, Philosophy
 
 Personal Info
