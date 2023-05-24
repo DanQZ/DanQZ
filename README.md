@@ -5,12 +5,13 @@ Basic Info
   Home: Haddonfield, New Jersey
   School: Rutgers New Brunswick, graduating 2024
   Majors: Computer science, Philosophy
+  Contact: danqzbusiness@gmail.com, Discord QZ#0426
 
-Personal Info
+Other Info
   Current focus: Game development
   Learning: C#, Unity, Project management and team coordination
   Ask me about: Metaphysics
-  How to reach me: danqzbusiness@gmail.com, Discord QZ#0426
   Hobbies: Martial arts, 2d visual art, co-op games
-  Fun Fact: I was a globally ranked top 4 Tetris player in 2019.
+  Favorite games: Superfighters Deluxe, FTL, Barotrauma
+  Fun Fact: I was a globally ranked top 4 Tetris player in 2019
 ```
