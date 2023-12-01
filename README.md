@@ -5,7 +5,7 @@ Basic Info
   Home: Haddonfield, New Jersey
   School: Rutgers New Brunswick, 2024
   Majors: Computer science, Philosophy
-  Contact: danqzbusiness@gmail.com, Discord QZ#0426
+  Contact: danqzbusiness@gmail.com
 
 Other Info
   Current focus: Game development
