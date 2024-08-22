@@ -5,7 +5,7 @@ Basic Info
   Home: New Jersey
   School: Rutgers New Brunswick, 2024
   Majors: Computer science, Philosophy
-  Contact: danqzbusiness@gmail.com
+  Contact: danqzbusiness@gmail.com or dan_qz on Discord
 
 Other Info
   Current focus: Game development
