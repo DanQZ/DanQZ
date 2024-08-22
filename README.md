@@ -2,7 +2,7 @@
 ```yaml
 Basic Info
   Name: Daniel Zhang
-  Home: Haddonfield, New Jersey
+  Home: New Jersey
   School: Rutgers New Brunswick, 2024
   Majors: Computer science, Philosophy
   Contact: danqzbusiness@gmail.com
