@@ -10,8 +10,8 @@ Basic Info
 Other Info
   Current focus: Game development
   Learning: C#, Unity, Project management and team coordination
-  Ask me about: Metaphysics, epistemology
+  Unique interests: Metaphysics, epistemology
   Hobbies: Martial arts, 2d visual art, co-op games
-  Favorite games: Superfighters Deluxe, FTL, Barotrauma
+  Favorite games: Superfighters Deluxe, Deep Rock Galactic, Barotrauma
   Fun Fact: I was a globally ranked top 4 Tetris player in 2019
 ```
