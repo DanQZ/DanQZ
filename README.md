@@ -8,7 +8,7 @@ Basic Info
   Contact: danqzbusiness@gmail.com or dan_qz on Discord
 
 Other Info
-  Current focus: Game development
+  Current focus: Software and game development
   Learning: C#, Unity, Project management and team coordination
   Unique interests: Metaphysics, epistemology
   Hobbies: Martial arts, 2d visual art, co-op games
