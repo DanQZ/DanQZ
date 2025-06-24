@@ -14,4 +14,6 @@ Other Info
   Hobbies: Martial arts, 2d visual art, co-op games
   Favorite games: Superfighters Deluxe, Deep Rock Galactic, Barotrauma
   Fun Fact: I was a globally ranked top 4 Tetris player in 2019
+
+Play my game on Steam! https://clairvoyancegame.com/
 ```
